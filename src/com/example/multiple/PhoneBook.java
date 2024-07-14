@@ -1,8 +1,6 @@
 package com.example.multiple;
 // Programmer: Pepper Berry
-// Class: CS &145
 // Date: 4/26/23
-//assignment 2- phone book
 // Purpose: allows you to look through add and remove stuff from a phonebook
 import java.util.*;
 public class Test {
